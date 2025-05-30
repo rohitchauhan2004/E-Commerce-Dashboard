@@ -67,3 +67,5 @@ Optimize payment options based on popularity.
 Identify and engage high-value customers.
 
 Make data-driven decisions to boost profitability and customer satisfaction.
+
+Dashboaard look like-https://github.com/rohitchauhan2004/E-Commerce-Dashboard/blob/main/Snapshot%20of%20E%20commerce%20Dashboard.png
